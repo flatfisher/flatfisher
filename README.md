@@ -9,3 +9,11 @@ Go, Node.js, Python, Google Cloud, Firebase, Dialogflow / Actions on Google, Jav
 ### Blogs
 - [Medium](https://medium.com/@flatfisher) English and Japanese
 - [Qiita](https://qiita.com/flatfisher) Japanese only
+
+### Published articles
+- [mixi tech note #07] (https://techbookfest.org/product/5148888694521856)
+- [mixi tech note #04] (https://techbookfest.org/product/6713670480429056)
+- [mixi tech note #03] (https://techbookfest.org/product/6465552394485760)
+- [mixi tech note #02] (https://techbookfest.org/product/5256674994552832)
+- 街に寄り添うAI・Botサービスを開発する Software Design 2018 July
+- Race for Resilience 2016 熊本 Software Design 2017 January
