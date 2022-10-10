@@ -1,6 +1,5 @@
 ## flatfisher
 Kyohei Tsuda (aka fish and flatfisher)
-
 Software Engineer, develops and works on the server side, Engineering manager.
 
 ### Skills
